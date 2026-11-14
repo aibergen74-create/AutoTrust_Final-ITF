@@ -1,0 +1,23 @@
+sequenceDiagram
+    autonumber
+    actor Seller
+    actor Buyer
+    participant C as VehicleEscrow<br/>(smart contract)
+    participant STO as Certified STO node
+    participant Reg as Registrar node
+
+    Seller->>C: createDeal(vinHash, price, duration)
+    C-->>Seller: dealId (status: Created)
+    Buyer->>C: lockPayment(dealId) + 100% of price
+    Note over C: status: Funded, deadline starts
+    STO->>C: confirmInspection(dealId, reportHash, passed)
+    alt inspection passed
+        Note over C: status: Inspected
+        Reg->>C: confirmReRegistration(dealId)
+        C->>Seller: transfer price (status: Completed)
+    else inspection failed
+        C->>Buyer: instant refund (status: Refunded)
+    else deadline passed without completion
+        Buyer->>C: refund(dealId)
+        C->>Buyer: refund (status: Refunded)
+    end
