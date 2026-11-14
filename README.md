@@ -115,5 +115,10 @@ docs/sequence-diagram.(mmd|png)    Figure 1
 - AI: `<name every AI tool and exact model and what it was used for, e.g. "Claude (model name): drafted the first version of the contract and tests, reviewed and changed by the team">`
 
 ## Team
+Aibergen Amanzhol — Group SE-2538 — Team Lead, Legal & Regulatory Compliance, Pitch (@<aibergen74-create>)
 
-`<names, groups and GitHub accounts; each member commits from their own account>`
+Zhanassyl Omar — Group [SE/CS-XXXX] — Business Model, Market Sizing & Risk Matrix (@<Zhanasyl08>)
+
+Abay Tleugalyyev — Group [SE/CS-XXXX] — CTO, Smart Contract Prototype & Hardhat Test Suite (@<Windze>)
+
+Adilzhan Tolegen — Group [SE/CS-XXXX] — CFO, 3-Year Financial Plan, DCF/NPV & Sensitivity Analysis (@<realadikaah>)
