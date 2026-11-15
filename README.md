@@ -5,7 +5,8 @@ Educational project for the course Introduction to Finance. Not a real product, 
 Final Project prototype (Introduction to Finance, Astana IT University, 2026-2027).
 Startup idea: blockchain vehicle history registry and secure escrow for the used car market in Kazakhstan (invented startup, invented data).
 
-* **Demo video (3 min):** https://www.google.com/search?q=https://drive.google.com/drive/folders/1brrKU96afk6m9z32Yc3nNPo7Y4OSya3a%3Fusp%3Dsharing
+* **Demo video (3 min):** [https://www.google.com/search?q=https://drive.google.com/drive/folders/1brrKU96afk6m9z32Yc3nNPo7Y4OSya3a%3Fusp%3Dsharing]
+* (https://drive.google.com/drive/folders/1brrKU96afk6m9z32Yc3nNPo7Y4OSya3a)
 
 * **GitHub repository:** https://www.google.com/search?q=https://drive.google.com/drive/folders/1brrKU96afk6m9z32Yc3nNPo7Y4OSya3a%3Fusp%3Dsharing
 
