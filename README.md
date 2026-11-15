@@ -125,3 +125,5 @@ Zhanassyl Omar — Group SE-2538 — Business Model, Market Sizing & Risk Matrix
 Abay Tleugalyyev — Group SE-2538 — CTO, Smart Contract Prototype & Hardhat Test Suite (@<Windze>)
 
 Adilzhan Tolegen — Group SE-2538 — CFO, 3-Year Financial Plan, DCF/NPV & Sensitivity Analysis (@<realadikaah>)
+
+https://github.com/aibergen74-create/AutoTrust_Final-ITF
