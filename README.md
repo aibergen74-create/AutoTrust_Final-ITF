@@ -138,10 +138,10 @@ docs/sequence-diagram.(mmd|png)    Figure 1
 
 ## Team
 
-* **Aibergen Amanzhol** — Group `[SE/CS-XXXX]` — Team Lead, Legal & Regulatory Compliance, Pitch (`@<github-username>`)
+* **Aibergen Amanzhol** — Group SE-2538 — Team Lead, Legal & Regulatory Compliance, Pitch (aibergen74-create)
 
-* **Zhanassyl Omar** — Group `[SE/CS-XXXX]` — Business Model, Market Sizing & Risk Matrix (`@<github-username>`)
+* **Zhanassyl Omar** — Group SE-2538 — Business Model, Market Sizing & Risk Matrix (Zhanasyl08)
 
-* **Abay Tleugalyyev** — Group `[SE/CS-XXXX]` — CTO, Smart Contract Prototype & Hardhat Test Suite (`@<github-username>`)
+* **Abay Tleugalyyev** — Group SE-2538 — CTO, Smart Contract Prototype & Hardhat Test Suite (Windze)
 
-* **Adilzhan Tolegen** — Group `[SE/CS-XXXX]` — CFO, 3-Year Financial Plan, DCF/NPV & Sensitivity Analysis (`@<github-username>`)
+* **Adilzhan Tolegen** — Group SE-2538 — CFO, 3-Year Financial Plan, DCF/NPV & Sensitivity Analysis (realadikaah)
