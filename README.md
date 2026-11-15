@@ -6,7 +6,7 @@ Final Project prototype (Introduction to Finance, Astana IT University, 2026-202
 Startup idea: blockchain vehicle history registry and secure escrow for the used car market in Kazakhstan (invented startup, invented data).
 
 - **Demo video (3 min):** https://drive.google.com/drive/folders/1brrKU96afk6m9z32Yc3nNPo7Y4OSya3a?usp=sharing
-- **GitHub repository:** `<paste link here>`
+- **GitHub repository:** `https://github.com/aibergen74-create/AutoTrust_Final-ITF`
 - **Testnet contract address:** none (local Hardhat network only)
 
 ## What the prototype does
@@ -112,10 +112,13 @@ docs/sequence-diagram.(mmd|png)    Figure 1
 
 - Open-source code: [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) 5.x (MIT licence): `AccessControl`, `ReentrancyGuard`, `Pausable`.
 - Tools: Hardhat (MIT).
-- AI: `<name every AI tool and exact model and what it was used for, e.g. "Claude (model name): drafted the first version of the contract and tests, reviewed and changed by the team">`
+
 
 ## Team
 Aibergen Amanzhol — Group SE-2538 — Team Lead, Legal & Regulatory Compliance, Pitch (@<aibergen74-create>)
+Tleugalyyev Abay - Group SE-2538
+Adilzhan Tolegen - Group SE-2538
+Zhanassyl Omar - Group SE-2538
 
 Zhanassyl Omar — Group SE-2538 — Business Model, Market Sizing & Risk Matrix (@<Zhanasyl08>)
 
